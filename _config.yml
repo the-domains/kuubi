@@ -1,0 +1,14 @@
+layout_spectrum: 0.009875292889773846
+typography_spectrum: 0.0806962784845382
+color:
+  brandStrength: 0.8159577224869281
+  lightness: 0.5734048082958907
+  saturation: 0.5322733791545033
+  rhythmicContrast: 0.02802702970802784
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Kuubi
